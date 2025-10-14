@@ -6,9 +6,9 @@
 ## Áætlaður staður og stund fyrir fundinn 
 
 ## Þátttakendur og hlutverk
-- Facilitator: Hver stýrir fundinum, hlutverk 
-- Ritari: Hver skráir niður spurningar og svör eða sér um upptöku og að færa á textaform, hlutverk
-- Viðskiptavinir/hagsmunaaðilar: Hver eru boðuð á fundinn frá viðskiptavini, hlutverk  
+- Facilitator: Dagbjört Stýrði fundinum
+- Ritari: Sigurður var ritari hópsins
+- Viðskiptavinir/hagsmunaaðilar: Hópur 9, voru viðskiptavinirnir.
 
 ## Aðferð kröfusöfnunar
 - Lýsið aðferð kröfusöfnunar, t.d. ef viðtal, þá spurningar (sjá námsefni)
