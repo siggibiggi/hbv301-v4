@@ -5,8 +5,10 @@
 
 ## Áætlaður staður og stund fyrir fundinn 
 
+Discord, 12. október 2025 kl 17:00
+
 ## Þátttakendur og hlutverk
-- Facilitator: Dagbjört Stýrði fundinum
+- Facilitator: Dagbjört stýrði fundinum
 - Ritari: Sigurður var ritari hópsins
 - Viðskiptavinir/hagsmunaaðilar: Hópur 9, voru viðskiptavinirnir.
 
@@ -22,11 +24,8 @@
 - Viðskiptavinir/hagsmunaaðilar: …
 
 ## Dagskrá/Tímalína
-- 00:00–00:05 Kynning
-- 
-- Fyllið inn í eftir þörfum 
-- 
-- 00:55–01:00 Næstu skref
+- 17:00 - 17:30 Viðtal þar sem hópur 9 var að spyrja okkur spurningar
+- 17:30 - 18:00 Viðtal þar sem við vorum að spyrja þau um spurningar
 
 ## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 
 
