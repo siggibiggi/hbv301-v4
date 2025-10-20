@@ -1,7 +1,7 @@
 # Áætlun fyrir kröfugreiningarfund
 
 ## Markmið
-- Lýsa helstu markmiðum kröfusöfnunar fyrir verkefnið sem á að greina
+
 - Markmið fundarins er að safna upplýsingum um þarfir og markmið hóps 9 varðandi aðgangsstýrikerfisins þeirra. Við viljum skilja hvaða notendur nota kerfið og hvaða aðgerðir það þarf að bjóða upp á, og hvaða kerfi það þarf að tengjast.
 
 ## Áætlaður staður og stund fyrir fundinn 
@@ -14,7 +14,13 @@ Discord, 12. október 2025 kl 17:00
 - Viðskiptavinir/hagsmunaaðilar: Hópur 9, voru viðskiptavinirnir.
 
 ## Aðferð kröfusöfnunar
-- Lýsið aðferð kröfusöfnunar, t.d. ef viðtal, þá spurningar (sjá námsefni)
+
+Aðferð kröfusöfnunar okkar var viðtal, þar sem við spurðum þau spurningar um kerfið. t.d.
+- ástæðuna afhverju þau völdu þetta kerfi.
+- Markmið kerfisins,
+- Helstu notendur kerfisins.
+- Kerfi sem tengjast þeirra kerfi.
+- Öryggiskröfur og takmarkanir.
 
 ## Líkön til að kveikja umræðu, skjöl og kerfi 
 - Búðu til einföld drög (t.d. flæði ferla, notkunartilvik, grófar skjámyndir) til að kveikja umræðu. 
