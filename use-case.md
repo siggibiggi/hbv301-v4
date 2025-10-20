@@ -2,7 +2,9 @@
 
 **ID:** UC-1  
 **Heiti:** Starfsmaður opnar hurð, stjórnandi sér það á tölvu
+
 **Aðal aðili:** Skrifstofu starfsmaður
+
 **Aukaaðilar:** Stjórnandi
 
 ## Forsendur
