@@ -1,7 +1,8 @@
 # Áætlun fyrir kröfugreiningarfund
 
 ## Markmið
-- Lýsa helstu markmiðum kröfusöfnunar fyrir verkefnið sem á að greina 
+- Lýsa helstu markmiðum kröfusöfnunar fyrir verkefnið sem á að greina
+- Markmið fundarins er að safna upplýsingum um þarfir og markmið hóps 9 varðandi aðgangsstýrikerfisins þeirra. Við viljum skilja hvaða notendur nota kerfið og hvaða aðgerðir það þarf að bjóða upp á, og hvaða kerfi það þarf að tengjast.
 
 ## Áætlaður staður og stund fyrir fundinn 
 
@@ -30,3 +31,6 @@ Discord, 12. október 2025 kl 17:00
 ## Áætlaðar afurðir sem koma út úr kröfusöfnuninni 
 
 ## Áhætta sem getur hindrað kröfusöfnun 
+- ónákvæmar eða óljósar lýsingar frá viðskiptavinum.
+- Takmarkaður tími fyrir viðtalið sem gæti valdið því að ekki náist að spyrja allar spurningar.
+- Misskilningur vegna tæknilegra hugtaka eða mismunandi skilnings á umfangi verkefnisins.
