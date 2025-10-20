@@ -17,6 +17,7 @@
 - FR-2: Kerfið skal styðja mismunandi notendahlutverk (venjulegur, gestur, stjórnandi).
 - FR-3: API fyrir auðveldari sameingu við núverandi kerfi
 - FR-4: Dyr geta verið opnaðar frá portal, t.d. í neyðartilviki
+- FR-5: Kerfið sér ef dyr lokast ekki almennilega eftir að hafa verið opnaðar
 
 ## Gæðakröfur (Non-functional)
 - QR-1: Kerfið skal uppfylla öryggisstaðal ISO-27001
